@@ -1,2 +1,2 @@
 # Git-And-Github
-Git and Github Basics and Commands
+Git and GitHub Basics and Commands
